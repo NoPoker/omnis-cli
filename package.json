@@ -1,0 +1,24 @@
+{
+  "name": "omnis-cli-ts",
+  "version": "0.0.1",
+  "description": "CLI stystem by Omnis",
+  "main": "dist/index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "Omnis-cli",
+    "cli"
+  ],
+  "author": "NoPoker <zuromr@gmail.com>",
+  "license": "MIC",
+  "dependencies": {
+    "@types/node": "^16.4.13",
+    "inquirer": "^8.1.2",
+    "ts-node": "^10.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}

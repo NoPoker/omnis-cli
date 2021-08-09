@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        // "removeComments": true,
+        "outDir": "dist",
+        "target": "ES6",
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true
+    }
+}
